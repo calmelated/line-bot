@@ -1,0 +1,17 @@
+{
+  "name": "line-bot",
+  "version": "0.0.1",
+  "description": "A demo bot is able to interact with other LINE users automatically.",
+  "private": true,
+  "main": "start.js",
+  "scripts": {
+    "start": "node --use_strict start.js"
+  },
+  "author": "Chad Hsu",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
